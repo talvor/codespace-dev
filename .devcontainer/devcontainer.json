@@ -1,0 +1,19 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/universal:2",
+    "customizations": {
+        "codespaces": {
+            "repositories": {
+                "com/talvor/di-tsyringe": {
+                    "permissions": {
+                        "actions": "write"
+                    }
+                },
+                "com/talvor/go-learning": {
+                    "permissions": {
+                        "actions": "write"
+                    }
+                }
+            }
+        }
+    }
+}
