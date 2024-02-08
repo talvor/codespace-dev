@@ -3,10 +3,10 @@
     "customizations": {
         "codespaces": {
             "repositories": {
-                "com/talvor/di-tsyringe": {
+                "talvor/di-tsyringe": {
                     "permissions": "write-all"
                 },
-                "com/talvor/go-learning": {
+                "talvor/go-learning": {
                     "permissions": "write-all"
                 }
             }
