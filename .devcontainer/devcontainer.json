@@ -4,14 +4,10 @@
         "codespaces": {
             "repositories": {
                 "com/talvor/di-tsyringe": {
-                    "permissions": {
-                        "actions": "write"
-                    }
+                    "permissions": "write-all"
                 },
                 "com/talvor/go-learning": {
-                    "permissions": {
-                        "actions": "write"
-                    }
+                    "permissions": "write-all"
                 }
             }
         }
